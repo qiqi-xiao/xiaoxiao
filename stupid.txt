@@ -1,0 +1,7 @@
+git add  添加文件至暂存区
+git commit -m  将暂存区 的文件提交到本地仓库
+git status  查看当前工作区的状态
+git log  日志
+git reflog  所有的操作日志
+git reset --hard HEAD^ 穿梭到上一个版本
+git reset --hard 版本号   穿梭到该版本号的版本
